@@ -1,3 +1,8 @@
+# Url to access the system
+* http://a6c8cb747366541b0944d624e6747485-906687355.sa-east-1.elb.amazonaws.com - (Frontend)
+* http://a5fa1d012e47b423f885447ca53bf477-1042678391.sa-east-1.elb.amazonaws.com:8080/api/v0/feed - (Api feed)
+* http://a5fa1d012e47b423f885447ca53bf477-1042678391.sa-east-1.elb.amazonaws.com:8080/api/v0/users - (Api user)
+
 # Udagram Image Filtering Application
 
 Udagram is a simple cloud application developed alongside the Udacity Cloud Engineering Nanodegree. It allows users to register and log into a web client, post photos to the feed, and process photos using an image filtering microservice.
